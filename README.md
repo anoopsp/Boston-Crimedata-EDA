@@ -32,6 +32,9 @@ The datasets required for EDA are downloaded from https://data.boston.gov/datase
 
 If the user has jupyter notebook and necessary anaconda distribution. We can easily run the jupyter notebook to visualise the data. User needs to download the data files provided in the dataset folder.
 
+The notebook _Boston Crime EDA.ipynb_ can be easily executed once the necessary packages are installed.
+
+
 ##  Acknowledgements
 
 * The picture is referenced from "https://assets.penguinrandomhouse.com/wp-content/uploads/2015/12/02152125/PRH-True-Crime-List-1400x380.jpg"
